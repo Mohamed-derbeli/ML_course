@@ -13,6 +13,4 @@ Let's explore a step-by-step process for approaching ML problems in Real life:
 - Experiment and combine results from multiple strategies to get a better result.
 - Interpret models, study individual predictions, and present your findings to the stakeholders.
 
-[Check out the full scoop here]: [ML Cheat Codes 2024](https://github.com/nikitaprasad21/ML-Cheat-Codes/blob/main/ml_projects.ipynb)
-
-This is the Ultimate Cheat Code for Machine Learning is what you will need in 2024. Even if you are beignner in Data Science or you're a seasoned expert. These codes will be your lifesaver for quick syntax reference. 🏄‍♂️🐍
+This is the Ultimate Cheat Code for Machine Learning is what you will need in 2024. Even if you are beginner in Data Science or you're a seasoned expert. These codes will be your lifesaver for quick syntax reference. 🏄‍♂️🐍
