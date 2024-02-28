@@ -1,6 +1,6 @@
 ## In this course you will find the following chapters:
 
-1 - Data-Gathering
+- Data-Gathering
 #### 2-Understanding-Data
 #### 3-Feature-Engineering
 #### 4-Linear-Regression
