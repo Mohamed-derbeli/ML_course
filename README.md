@@ -1,4 +1,4 @@
-# In this course you will find the following chapters:
+## In this course you will find the following chapters:
 
 #### 1-Data-Gathering
 #### 2-Understanding-Data
